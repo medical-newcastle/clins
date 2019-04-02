@@ -1,0 +1,44 @@
+## 1 $$ Cranial Nerves, Olfactory Nerve %%
+Instruct examination of olfactory nerve (I)
+- "Close your eyes"
+- Tear open coffee satchet
+- "Close your left nostril, and tell me what this smell is."
+- Present coffee satchet
+- "Close your right nostril & tell me if you can also smell it."
+
+## 2 $$ Cranial Nerves, Opthalmic Nerve %%
+Instruct examination of opthalmic nerve (II)
+- "Please put on your spectacles/glasses if you have them."
+- "Please hold this chart at arms length, then cover your left eye & read down the chart."
+- "Please cover your other eye & read the chart from right to left."
+- "Is this pin red?"
+- "Is the colour the same in your right & left eyes?"
+- "Please cover your left eye, and keep looking at my nose. Tell me when you can see the red of the pin."
+- "Now please cover your right eye, and keep looking at my nose. Tell me when you can see the red of the pin."
+- "I am going to move the pin across your vision. Tell me when the pin disappears, and tell me when it reappears."
+- "Please cover your left eye now."
+- "Please cover your right eye now."
+- "I am now going to examine the back of your eyes. Please center your gaze on the curtain behind me."
+
+## 3 $$ Cranial Nerves, Oculomotor Nerve %%
+Instruct examination of the oculomotor nerve (III)
+- Look for ptosis of either eye
+- "Now look straight ahead."
+- Test for direct response to light in left eye. Observe for consensual response in right eye.
+- Test for direct response to light in right eye. Observe for consensual response in left eye.
+- Swing the torch from right eye to left eye & watch for dilation of a pathological left eye (RAPD left).
+- Swing the torch from left eye to right eye & watch for dilation of a pathological right eye (RAPD right).
+- Position your red-hat pin about 30 cm from the patient's nose.
+- "Look at the corner of the curtain, now look at the pin."
+
+## 4 $$ Cranial Nerves, Extraocular movements %%
+- "Now follow the red pin with only your eyes."
+- Move your pin to the (patient's) left field of vision. Observe for nystagmus suggesting left abducens pathology or right oculomotor pathology.
+- Move your pin to the left upper field of vision. Observe for left superior rectus weakness. Observe for right inferior oblique weakness.
+- Move your pin to the left lower field of vision. Observe for left inferior rectus weakness. Observe for right superior oblique weakness.
+- Move your pin back to the center.
+- Move your pin to the (patient's) right field of vision. Observe for nystagmus suggesting right abducens pathology or left oculomotor pathology.
+- Move your pin to the right upper field of vision. Observe for right superior rectus weakness. Observe for left inferior oblique weakness.
+- Move your pin to the right lower field of vision. Observe for right inferior rectus weakness. Observe for left inferior oblique weakness.
+- If any abnormality of movement is found, the eye must be tested individually.
+
