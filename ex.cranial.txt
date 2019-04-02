@@ -32,6 +32,7 @@ Instruct examination of the oculomotor nerve (III)
 - "Look at the corner of the curtain, now look at the pin."
 
 ## 4 $$ Cranial Nerves, Extraocular movements %%
+Instruct examination of the extraocular movements including oculomotor, trochlear and abducens nerves
 - "Now follow the red pin with only your eyes."
 - Move your pin to the (patient's) left field of vision. Observe for nystagmus suggesting left abducens pathology or right oculomotor pathology.
 - Move your pin to the left upper field of vision. Observe for left superior rectus weakness. Observe for right inferior oblique weakness.
@@ -42,3 +43,36 @@ Instruct examination of the oculomotor nerve (III)
 - Move your pin to the right lower field of vision. Observe for right inferior rectus weakness. Observe for left inferior oblique weakness.
 - If any abnormality of movement is found, the eye must be tested individually.
 
+## 5 $$ Cranial Nerves, Trigeminal nerve %%
+Instruct examination of the trigeminal nerve (V)
+- "I am going to touch your eye lightly with cotton wool. Please look straight ahead."
+- Approach from the side & touch the cornea lightly with cotton wool.
+- "I am going to touch your face with the cotton wool. Please tell me if you can feel it."
+- Examine the opthalmic division of the trigeminal
+- Examine the maxillary division
+- Examine the mandibular division
+- "I am going to do the same with a slightly sharp pin. Please tell me if you can feel it & if it is sharp."
+- Repeat
+- Inspect for wasting of masseter & temporalis
+- "Clench your teeth."
+- Palpate masseter
+- Examine for pterygoid strength
+- "Open your mouth & stop me from closing it."
+- Examine masseter's reflex, also known as the jaw jerk
+- "Open your mouth again & I will tap on the jaw."
+
+## 7 $$ Cranial Nerves, Facial nerve %%
+Instruct examination of the facial nerve (VII)
+- Inspect the folds of frontalis
+- Inspect the nasolabial fold
+- Inspect the corner of the mouth
+- Test frontalis
+- "Wrinkle your forehead or raise your eyebrows to the ceiling."
+- Test orbicularis oculi
+- "Close your eyes, tight as you can, and stop me from opening them."
+- Test orbicularis oris
+- "Puff out your cheeks, and stop me from deflating your cheeks."
+- "I'd like to examine for taste over the front of the tongue."
+- Test for taste over anterior two thirds of tongue if required.
+
+## 8 $$ Cranial Nerves, Acoustic nerve %%
