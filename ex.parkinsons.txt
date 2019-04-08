@@ -2,6 +2,8 @@
 Observations during Parkinson's examination
 - Paucity of movement
 - Masked facies
+- Reduced blink rate
+- Dribbling of saliva
 - Resting tremor
 - Dyskinetic movement
 - Check iris for Wilson's disease
@@ -67,3 +69,8 @@ Examination of features of Parkinson's Plus syndromes
 
 ## 8 $$ Parkinson's Presentation %%
 Present your findings
+- [1] Severity Assessment
+- I examined the severity of Mr. X's Parkinson's disease.
+- Mr. X is predominantly rigid/dyskinetic with/without postural instability & did/did not demonstrate freezing today.
+- In detail, general observation showed a reduced blink frequency, masked facies, and a resting tremor on the right/left.
+- 
