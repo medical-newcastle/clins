@@ -76,3 +76,5 @@ Instruct examination of the facial nerve (VII)
 - Test for taste over anterior two thirds of tongue if required.
 
 ## 8 $$ Cranial Nerves, Acoustic nerve %%
+Instruct examination of the acoustic nerve (VIII)
+- 
